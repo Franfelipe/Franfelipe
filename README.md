@@ -4,7 +4,7 @@ Computer Science student at [Unochapeco](https://www.unochapeco.edu.br/)
 
 	francisco = {
 
-			personal: {
+		personal: {
 			
 			name: "Francisco Felipe Riffel",
 			
@@ -12,20 +12,20 @@ Computer Science student at [Unochapeco](https://www.unochapeco.edu.br/)
 			
 			email: "francisco.riffel@unochapeco.edu.br"
 			
-			}, 
+		}, 
 			
-			code: ["Javascript", "Typescript", "PHP", "Python","Dart"],
+		code: ["Javascript", "Typescript", "PHP", "Python","Dart"],
 			
-			technologies: {
+		technologies: {
 			
-				mobile: ["Flutter"],
+			mobile: ["Flutter"],
 				
-				frontEnd: ["Angular"],
+			frontEnd: ["Angular"],
 				
-				backEnd: ["Node.js", "ZendFramework3"],
+			backEnd: ["Node.js", "ZendFramework3"],
 				
-				databases: ["PostgreSQL", "SQLite"]
+			databases: ["PostgreSQL", "SQLite"]
 				
-				}
+		}
 
 	};
